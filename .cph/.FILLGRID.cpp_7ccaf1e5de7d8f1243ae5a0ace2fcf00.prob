@@ -1,0 +1,1 @@
+{"name":"Local: FILLGRID","url":"d:\\Project\\Competitive Programming\\Cpp\\Code Chef\\FILLGRID.cpp","tests":[{"id":1631721804178,"input":"2\n2\n3","output":"-1 -1\n-1 -1 \n1 -1 1\n-1 1 1\n1 1 -1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Project\\Competitive Programming\\Cpp\\Code Chef\\FILLGRID.cpp","group":"local","local":true}

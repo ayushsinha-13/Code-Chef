@@ -1,0 +1,1 @@
+{"name":"Local: SUMPOS","url":"d:\\College\\Extra\\Cpp\\Code Chef\\SUMPOS.cpp","tests":[{"id":1612021012833,"input":"5\n1 1 2\n1 3 2\n2 2 2\n100 100 201\n11 22 33","output":"YES\nYES\nNO\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\College\\Extra\\Cpp\\Code Chef\\SUMPOS.cpp","group":"local","local":true}

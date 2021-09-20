@@ -1,0 +1,1 @@
+{"name":"Local: FAIRELCT","url":"d:\\College\\Extra\\Cpp\\Code Chef\\FAIRELCT.cpp","tests":[{"id":1609505624681,"input":"2\n2 3\n2 2\n5 5 5\n4 3\n1 3 2 4\n6 7 8","output":"2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\College\\Extra\\Cpp\\Code Chef\\FAIRELCT.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: FACEDIR","url":"d:\\Project\\Competitive Programming\\Cpp\\Code Chef\\FACEDIR.cpp","tests":[{"id":1631717045343,"input":"3\n1\n3\n6\n","output":"East\nWest\nSouth\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Project\\Competitive Programming\\Cpp\\Code Chef\\FACEDIR.cpp","group":"local","local":true}

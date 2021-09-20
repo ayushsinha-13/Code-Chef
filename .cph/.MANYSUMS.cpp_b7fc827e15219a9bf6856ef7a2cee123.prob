@@ -1,0 +1,1 @@
+{"name":"Local: MANYSUMS","url":"d:\\College\\Extra\\Cpp\\Code Chef\\MANYSUMS.cpp","tests":[{"id":1611511256964,"input":"2\n2 2\n2 3","output":"1\n3"},{"id":1611513027199,"input":"1\n2 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\College\\Extra\\Cpp\\Code Chef\\MANYSUMS.cpp","group":"local","local":true}
